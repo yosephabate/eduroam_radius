@@ -1,4 +1,4 @@
-radius ansible_host=chris.ubuntunet.net
+radius ansible_host=yoseph.ubuntunet.net
 
 [idp]
 radius
